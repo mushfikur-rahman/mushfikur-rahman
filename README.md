@@ -1,5 +1,6 @@
 # 😊 **Hey there!**
-I'm a final year *Computer Science and Engineering* student at **CUET**, passionate about leveraging technology to solve real-world problems. Here's a glimpse into my journey:
+
+<font size="6"> I'm a final year *Computer Science and Engineering* student at **CUET**, passionate about leveraging technology to solve real-world problems. Here's a glimpse into my journey: </font>
 
 ---
 
