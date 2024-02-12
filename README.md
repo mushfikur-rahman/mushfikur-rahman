@@ -6,7 +6,7 @@
 - Human qualities: Versatile, Resilient, Patient, Disciplined
 
 🏆 **Awards**:
-- USTC IIUC (Inter University Programming Contest) 36th, 2019
+- USTC IUPC (Inter University Programming Contest) 36th, 2019
 - Intra Club Presentation Contest of CUET CAREER CLUB, Champion, 2021
 - IDBP (Inter Department British Parliamentary Debate), CUET DEBATING SOCIETY, Champion, 2019
 
