@@ -1,4 +1,4 @@
-👋 Hi there! I'm a final year Computer Science and Engineering student at CUET (Chittagong University of Engineering and Technology), passionate about leveraging technology to solve real-world problems. Here's a glimpse into my journey:
+👋 Hi there! I'm a final year Computer Science and Engineering student at CUET , passionate about leveraging technology to solve real-world problems. Here's a glimpse into my journey:
 
 🔍 **Looking forward**:
 Excited about exploring opportunities where I can apply my skills and knowledge to contribute meaningfully to impactful projects and collaborations. Open to connecting with like-minded individuals and exploring new opportunities in the tech industry.
