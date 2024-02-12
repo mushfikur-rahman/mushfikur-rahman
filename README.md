@@ -1,4 +1,4 @@
-# 🚀 **Hey there!**
+# 👋 **Hey there!**
 I'm a final year *Computer Science and Engineering* student at **CUET**, passionate about leveraging technology to solve real-world problems. Here's a glimpse into my journey:
 
 ---
@@ -14,7 +14,7 @@ Excited about exploring opportunities where I can apply my skills and knowledge 
 # 🚀 **Skills**:
 
 ### 🛠️ **Proficient in**:
-<font size="4">
+<font size="6">
 
 * **C, C++, JavaScript, PHP, Java, Python**
 * *Flutter, CSS, HTML, MySQL, Postman*
@@ -22,7 +22,7 @@ Excited about exploring opportunities where I can apply my skills and knowledge 
 </font>
 
 ### 💡 **Conceptual strengths**:
-<font size="4">
+<font size="6">
 
 * *Leadership, Team management, Problem-solving*
 * **Decision-making**
@@ -30,7 +30,7 @@ Excited about exploring opportunities where I can apply my skills and knowledge 
 </font>
 
 ### 🌟 **Human qualities**:
-<font size="4">
+<font size="6">
 
 * **Versatile, Resilient**
 * *Patient, Disciplined*
@@ -41,7 +41,7 @@ Excited about exploring opportunities where I can apply my skills and knowledge 
 
 # 🏆 **Awards**:
 
-<font size="4">
+<font size="6">
 
 🥇 **USTC IUPC (Inter University Programming Contest) 36th**, 2019
 
@@ -56,21 +56,21 @@ Excited about exploring opportunities where I can apply my skills and knowledge 
 # 💻 **Projects**:
 
 ### 🏠 [Shukhi Nibash](https://github.com/mushfikur-rahman/Shukhi_Nibash):
-<font size="4">
+<font size="6">
 
 Developed a full-stack website for house rental, providing a seamless experience for both tenants and owners.
 
 </font>
 
 ### 🏥 [E Hospital](https://github.com/mushfikur-rahman/E_Hospital):
-<font size="4">
+<font size="6">
 
 Created an online hospital app using Java, facilitating easy access to medical services.
 
 </font>
 
 ### 🏢 [Sheikh_Russel_Hall_Complaint_Management_App](https://github.com/mushfikur-rahman/Sheikh_Russel_Hall_Complaint_Management_App):
-<font size="4">
+<font size="6">
 
 Developed a Flutter app for submitting and managing hall-related issues for residents and administrators, ensuring efficient communication and resolution of complaints.
 
@@ -80,7 +80,7 @@ Developed a Flutter app for submitting and managing hall-related issues for resi
 
 # 📚 **Courses**:
 
-<font size="4">
+<font size="6">
 
 - **CSE-433 (Software Engineering)**
 - **CSE-489 (Software Architecture)**
@@ -92,7 +92,7 @@ Developed a Flutter app for submitting and managing hall-related issues for resi
 
 # 🌟 **Extracurricular**:
 
-<font size="4">
+<font size="6">
 
 - **Class Representative, Department of CSE, CUET**
 - **Organizer Team, CUET CSE FEST 2021**
