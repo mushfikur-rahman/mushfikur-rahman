@@ -1,6 +1,5 @@
-# 😊 *Hey there!*
-
-<font size="6"> I'm a final year *Computer Science and Engineering* student at **CUET**, passionate about leveraging technology to solve real-world problems. Here's a glimpse into my journey: </font>
+# 🚀 **Hey there!**
+I'm a final year *Computer Science and Engineering* student at **CUET**, passionate about leveraging technology to solve real-world problems. Here's a glimpse into my journey:
 
 ---
 
@@ -15,26 +14,34 @@ Excited about exploring opportunities where I can apply my skills and knowledge 
 # 🚀 **Skills**:
 
 ### 🛠️ **Proficient in**:
+<font size="4">
 
 * **C, C++, JavaScript, PHP, Java, Python**
 * *Flutter, CSS, HTML, MySQL, Postman*
 
+</font>
 
 ### 💡 **Conceptual strengths**:
+<font size="4">
 
 * *Leadership, Team management, Problem-solving*
 * **Decision-making**
 
+</font>
 
 ### 🌟 **Human qualities**:
+<font size="4">
 
 * **Versatile, Resilient**
 * *Patient, Disciplined*
 
+</font>
 
 ---
 
 # 🏆 **Awards**:
+
+<font size="4">
 
 🥇 **USTC IUPC (Inter University Programming Contest) 36th**, 2019
 
@@ -42,30 +49,50 @@ Excited about exploring opportunities where I can apply my skills and knowledge 
 
 🏆 **IDBP (Inter Department British Parliamentary Debate), CUET DEBATING SOCIETY, Champion**, 2019
 
+</font>
+
 ---
 
 # 💻 **Projects**:
 
 ### 🏠 [Shukhi Nibash](https://github.com/mushfikur-rahman/Shukhi_Nibash):
+<font size="4">
+
 Developed a full-stack website for house rental, providing a seamless experience for both tenants and owners.
 
+</font>
+
 ### 🏥 [E Hospital](https://github.com/mushfikur-rahman/E_Hospital):
+<font size="4">
+
 Created an online hospital app using Java, facilitating easy access to medical services.
 
+</font>
+
 ### 🏢 [Sheikh_Russel_Hall_Complaint_Management_App](https://github.com/mushfikur-rahman/Sheikh_Russel_Hall_Complaint_Management_App):
+<font size="4">
+
 Developed a Flutter app for submitting and managing hall-related issues for residents and administrators, ensuring efficient communication and resolution of complaints.
+
+</font>
 
 ---
 
 # 📚 **Courses**:
 
+<font size="4">
+
 - **CSE-433 (Software Engineering)**
 - **CSE-489 (Software Architecture)**
 - **Programming for Everybody (Coursera)**
 
+</font>
+
 ---
 
 # 🌟 **Extracurricular**:
+
+<font size="4">
 
 - **Class Representative, Department of CSE, CUET**
 - **Organizer Team, CUET CSE FEST 2021**
@@ -76,3 +103,4 @@ Developed a Flutter app for submitting and managing hall-related issues for resi
 - **Research Secretary, ASRRO (Andromeda Space and Robotics Research Organization), CUET**
 - **Cultural Wing Secretary, Rangpur Division Association, CUET**
 
+</font>
