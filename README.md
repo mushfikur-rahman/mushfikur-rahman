@@ -51,11 +51,11 @@ Excited about exploring opportunities where I can apply my skills and knowledge 
 
 🌟 **Extracurricular**:
 
-- **Class Representative, Department of CSE, CUET** 🎓
-- **Organizer Team, CUET CSE FEST 2021** 🎉
-- **Event Organizer, CUET CAREER FEST 2023** 🎈
-- **Executive member, CUET Computer Club** 💻
-- **Content Development and IT Wing Secretary, CUET Career Club** 📝
-- **Program Planning Secretary, CUET DS (DEBATING SOCIETY)** 🗣️
-- **Research Secretary, ASRRO (Andromeda Space and Robotics Research Organization), CUET** 🚀
-- **Cultural Wing Secretary, Rangpur Division Association, CUET** 🎭
+- **Class Representative, Department of CSE, CUET** 
+- **Organizer Team, CUET CSE FEST 2021** 
+- **Event Organizer, CUET CAREER FEST 2023** 
+- **Executive member, CUET Computer Club** 
+- **Content Development and IT Wing Secretary, CUET Career Club** 
+- **Program Planning Secretary, CUET DS (DEBATING SOCIETY)** 
+- **Research Secretary, ASRRO (Andromeda Space and Robotics Research Organization), CUET** 
+- **Cultural Wing Secretary, Rangpur Division Association, CUET** 
