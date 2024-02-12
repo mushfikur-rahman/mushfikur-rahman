@@ -1,7 +1,7 @@
 👋 Hi there! I'm a final year Computer Science and Engineering student at CUET (Chittagong University of Engineering and Technology), passionate about leveraging technology to solve real-world problems. Here's a glimpse into my journey:
 
 🚀 **Skills**:
-- Proficient in: C, C++, JavaScript, PHP, Java, Python, CSS, HTML, MySQL, Postman
+- Proficient in: C, C++, JavaScript, PHP, Java, Python,Flutter , CSS, HTML, MySQL, Postman
 - Conceptual strengths: Leadership, Team management, Problem-solving, Decision-making
 - Human qualities: Versatile, Resilient, Patient, Disciplined
 
