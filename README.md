@@ -14,22 +14,22 @@ Excited about exploring opportunities where I can apply my skills and knowledge 
 # 🚀 **Skills**:
 
 ### 🛠️ **Proficient in**:
-```markdown
+
 * **C, C++, JavaScript, PHP, Java, Python**
 * *Flutter, CSS, HTML, MySQL, Postman*
-```
+
 
 ### 💡 **Conceptual strengths**:
-```markdown
+
 * *Leadership, Team management, Problem-solving*
 * **Decision-making**
-```
+
 
 ### 🌟 **Human qualities**:
-```markdown
+
 * **Versatile, Resilient**
 * *Patient, Disciplined*
-```
+
 
 ---
 
