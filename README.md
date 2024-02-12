@@ -1,7 +1,3 @@
-Certainly! Here's an updated version with various font sizes and styles, as well as custom formatting for the coding skills representation:
-
----
-
 # 🚀 **Hey there!**
 I'm a final year *Computer Science and Engineering* student at **CUET**, passionate about leveraging technology to solve real-world problems. Here's a glimpse into my journey:
 
