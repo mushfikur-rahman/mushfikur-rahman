@@ -1,5 +1,5 @@
 # 👋 **Hey there!**
-I'm fresh CSE Graduate from *Computer Science and Engineering* student at **CUET**, passionate about leveraging technology to solve real-world problems. Here's a glimpse into my journey:
+I'm a fresh CSE Graduate from *Computer Science and Engineering* student at **CUET**, passionate about leveraging technology to solve real-world problems. Here's a glimpse into my journey:
 
 ---
 
