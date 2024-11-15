@@ -1,106 +1,99 @@
+
 # 👋 **Hey there!**
-I'm a fresh CSE Graduate from *Computer Science and Engineering* student at **CUET**, passionate about leveraging technology to solve real-world problems. Here's a glimpse into my journey:
+I'm a fresh **CSE Graduate** from *Computer Science and Engineering* at **CUET**, passionate about leveraging technology to solve real-world problems. Here's a glimpse into my journey:
 
 ---
 
 ## 🔍 **Looking forward**:
 
-Excited about exploring opportunities where I can apply my skills and knowledge to contribute meaningfully to impactful projects and collaborations. Open to connecting with like-minded individuals and exploring new opportunities in the tech industry.
+Excited to explore opportunities where I can apply my skills and knowledge to contribute meaningfully to impactful projects and collaborations. Open to connecting with like-minded individuals and exploring new opportunities in the tech industry.
 
 📧 **Contact me at:** mushfikur048@gmail.com
 
 ---
 
-# 🚀 **Skills**:
+# 🚀 **Skills**
 
 ### 🛠️ **Proficient in**:
-<font size="6">
 
-* **C, C++, JavaScript, PHP, Java, Python**
-* *Flutter, CSS, HTML, MySQL, Postman*
+<div align="center">
+  
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-</font>
+</div>
+
+---
 
 ### 💡 **Conceptual strengths**:
-<font size="6">
-
-* *Leadership, Team management, Problem-solving*
-* **Decision-making**
-
-</font>
-
-### 🌟 **Human qualities**:
-<font size="6">
-
-* **Versatile, Resilient**
-* *Patient, Disciplined*
-
-</font>
+  
+- Leadership  
+- Team Management  
+- Problem-Solving  
+- Decision-Making  
 
 ---
 
-# 🏆 **Awards**:
-
-<font size="6">
-
-🥇 **USTC IUPC (Inter University Programming Contest) 36th**, 2019
-
-🏆 **Intra Club Presentation Contest of CUET CAREER CLUB, Champion**, 2021
-
-🏆 **IDBP (Inter Department British Parliamentary Debate), CUET DEBATING SOCIETY, Champion**, 2019
-
-</font>
+# 🏆 **Achievements**
+  
+### **Awards**:
+  
+- 🥇 **USTC IUPC (Inter University Programming Contest)**, 36th place (2019)  
+- 🏆 **CUET CAREER CLUB Intra Presentation Contest**, Champion (2021)  
+- 🏆 **CUET DEBATING SOCIETY IDBP**, Champion (2019)
 
 ---
 
-# 💻 **Projects**:
+### **GitHub Stats**:
 
-### 🏠 [Shukhi Nibash](https://github.com/mushfikur-rahman/Shukhi_Nibash):
-<font size="6">
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mushfikur-rahman&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mushfikur-rahman&theme=radical)  
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mushfikur-rahman&layout=compact&theme=radical)  
 
-Developed a full-stack website for house rental, providing a seamless experience for both tenants and owners.
-
-</font>
-
-### 🏥 [E Hospital](https://github.com/mushfikur-rahman/E_Hospital):
-<font size="6">
-
-Created an online hospital app using Java, facilitating easy access to medical services.
-
-</font>
-
-### 🏢 [Sheikh_Russel_Hall_Complaint_Management_App](https://github.com/mushfikur-rahman/Sheikh_Russel_Hall_Complaint_Management_App):
-<font size="6">
-
-Developed a Flutter app for submitting and managing hall-related issues for residents and administrators, ensuring efficient communication and resolution of complaints.
-
-</font>
+</div>
 
 ---
 
-# 📚 **Courses**:
+# 💻 **Projects**
 
-<font size="6">
+### 🏠 [Shukhi Nibash](https://github.com/mushfikur-rahman/Shukhi_Nibash)  
+*Developed a full-stack website for house rental, providing a seamless experience for tenants and owners.*  
 
-- **CSE-433 (Software Engineering)**
-- **CSE-489 (Software Architecture)**
-- **Programming for Everybody (Coursera)**
+### 🏥 [E Hospital](https://github.com/mushfikur-rahman/E_Hospital)  
+*Created an online hospital app using Java, facilitating easy access to medical services.*  
 
-</font>
+### 🏢 [Complaint Management App](https://github.com/mushfikur-rahman/Sheikh_Russel_Hall_Complaint_Management_App)  
+*Developed a Flutter app for efficient communication and resolution of hall-related complaints.*
 
 ---
 
-# 🌟 **Extracurricular**:
+# 🌟 **Extracurricular Activities**
 
-<font size="6">
+- **Class Representative, Department of CSE, CUET**  
+- **Organizer Team, CUET CSE FEST 2021**  
+- **Content Development Secretary, CUET Career Club**  
+- **Research Secretary, ASRRO (CUET)**  
 
-- **Class Representative, Department of CSE, CUET**
-- **Organizer Team, CUET CSE FEST 2021**
-- **Event Organizer, CUET CAREER FEST 2023**
-- **Executive member, CUET Computer Club**
-- **Content Development and IT Wing Secretary, CUET Career Club**
-- **Program Planning Secretary, CUET DS (DEBATING SOCIETY)**
-- **Research Secretary, ASRRO (Andromeda Space and Robotics Research Organization), CUET**
-- **Cultural Wing Secretary, Rangpur Division Association, CUET**
+---
 
-</font>
+### 🎯 **View Counter**  
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=mushfikur-rahman&color=blueviolet&style=flat-square)
+
+</div>
+
+---
+
+### ✨ **Let's Connect**  
+Feel free to reach out for collaboration or sharing ideas.  
+🌐 [GitHub Profile](https://github.com/mushfikur-rahman)  
