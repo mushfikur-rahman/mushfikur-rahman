@@ -8,7 +8,7 @@ I'm a fresh **CSE Graduate** from *Computer Science and Engineering* at **CUET**
 
 Excited to explore opportunities where I can apply my skills and knowledge to contribute meaningfully to impactful projects and collaborations. Open to connecting with like-minded individuals and exploring new opportunities in the tech industry.
 
-📧 **Contact me at:** mushfikur048@gmail.com
+📧 **Contact me at:** 
 
 ---
 
