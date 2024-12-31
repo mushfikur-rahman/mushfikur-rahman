@@ -75,9 +75,9 @@ Excited to explore opportunities where I can apply my skills and knowledge to co
 
 ---
 
-# 🌟 **Extracurricular Activities**
+%# 🌟 **Extracurricular Activities**
 
-- **Class Representative, Department of CSE, CUET**  
+%- **Class Representative, Department of CSE, CUET**  
 - **Organizer Team, CUET CSE FEST 2021**  
 - **Content Development Secretary, CUET Career Club**  
 - **Research Secretary, ASRRO (CUET)**  
