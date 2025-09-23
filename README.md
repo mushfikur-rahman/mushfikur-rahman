@@ -1,4 +1,3 @@
-
 # 👋 **Hey there!**
 I'm a fresh **CSE Graduate** from *Computer Science and Engineering* at **CUET**, passionate about leveraging technology to solve real-world problems. Here's a glimpse into my journey:
 
@@ -40,6 +39,7 @@ Excited to explore opportunities where I can apply my skills and knowledge to co
 
 ---
 
+<!--
 # 🏆 **Achievements**
   
 ### **Awards**:
@@ -47,6 +47,7 @@ Excited to explore opportunities where I can apply my skills and knowledge to co
 - 🥇 **USTC IUPC (Inter University Programming Contest)**, 36th place (2019)  
 - 🏆 **CUET CAREER CLUB Intra Presentation Contest**, Champion (2021)  
 - 🏆 **CUET DEBATING SOCIETY IDBP**, Champion (2019)
+-->
 
 ---
 
@@ -74,7 +75,6 @@ Excited to explore opportunities where I can apply my skills and knowledge to co
 *Developed a Flutter app for efficient communication and resolution of hall-related complaints.*
 
 ---
-
 
 ### 🎯 **View Counter**  
 
