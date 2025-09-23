@@ -29,7 +29,7 @@ Excited to explore opportunities where I can apply my skills and knowledge to co
 </div>
 
 ---
-<!--
+
 ### 💡 **Conceptual strengths**:
   
 - Leadership  
@@ -56,7 +56,7 @@ Excited to explore opportunities where I can apply my skills and knowledge to co
 <div align="center">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mushfikur-rahman&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mushfikur-rahman&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=mushfikur-rahman&theme=radical&hide_border=true)  
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mushfikur-rahman&layout=compact&theme=radical)  
 
 </div>
@@ -80,7 +80,7 @@ Excited to explore opportunities where I can apply my skills and knowledge to co
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=mushfikur-rahman&color=blueviolet&style=flat-square)
+![Profile Views](https://img.shields.io/badge/dynamic/json?color=blueviolet&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/mushfikur-rahman.readme/visits&logo=github)
 
 </div>
 
