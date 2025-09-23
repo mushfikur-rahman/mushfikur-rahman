@@ -29,7 +29,7 @@ Excited to explore opportunities where I can apply my skills and knowledge to co
 </div>
 
 ---
-
+<!--
 ### 💡 **Conceptual strengths**:
   
 - Leadership  
