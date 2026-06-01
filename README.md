@@ -1,5 +1,5 @@
 # 👋 **Hey there!**
-I'm a fresh **CSE Graduate** from *Computer Science and Engineering* at **CUET**, passionate about leveraging technology to solve real-world problems. Here's a glimpse into my journey:
+I'm a software engineer, passionate about leveraging technology to solve real-world problems. Here's a glimpse into my journey:
 
 ---
 
@@ -75,7 +75,6 @@ Excited to explore opportunities where I can apply my skills and knowledge to co
 *Developed a Flutter app for efficient communication and resolution of hall-related complaints.*
 
 ---
-
 ### 🎯 **View Counter**  
 
 <div align="center">
