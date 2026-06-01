@@ -7,7 +7,7 @@ I'm a software engineer, passionate about leveraging technology to solve real-wo
 
 Excited to explore opportunities where I can apply my skills and knowledge to contribute meaningfully to impactful projects and collaborations. Open to connecting with like-minded individuals and exploring new opportunities in the tech industry.
 
-📧 **Contact me at:** 
+
 
 ---
 
