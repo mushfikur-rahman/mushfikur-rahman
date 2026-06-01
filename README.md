@@ -56,7 +56,7 @@ Excited to explore opportunities where I can apply my skills and knowledge to co
 <div align="center">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mushfikur-rahman&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mushfikur-rahman&theme=radical)  
+%%![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mushfikur-rahman&theme=radical)  
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mushfikur-rahman&layout=compact&theme=radical)  
 
 </div>
