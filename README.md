@@ -27,18 +27,17 @@ Excited to explore opportunities where I can apply my skills and knowledge to co
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
-
+<!--
 ---
-
 ### 💡 **Conceptual strengths**:
-  
+ -- 
 - Leadership  
 - Team Management  
 - Problem-Solving  
 - Decision-Making  
-
+--
 ---
-
+-->
 <!--
 # 🏆 **Achievements**
   
