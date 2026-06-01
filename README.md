@@ -1,5 +1,5 @@
 # 👋 **Hey there!**
-I'm a software engineer, passionate about leveraging technology to solve real-world problems. Here's a glimpse into my journey:
+I'm a software engineer, passionate about leveraging technology to solve real-world problems.
 
 ---
 
@@ -10,8 +10,6 @@ Excited to explore opportunities where I can apply my skills and knowledge to co
 
 
 ---
-
-# 🚀 **Skills**
 
 ### 🛠️ **Proficient in**:
 
